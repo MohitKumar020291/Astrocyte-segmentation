@@ -32,6 +32,8 @@ Whole Slide Images are divided into smaller tiles (typically 512×512 or 256×25
 
 ### 2.2 Mask Generation from Detection Annotations
 
+![SegMaskGeneration](https://github.com/MohitKumar020291/Astrocyte-segmentation/blob/main/SegMaskGeneration.png)
+
 Instead of generating weak labels, segmentation masks are **directly constructed from detection annotations (COCO format)**.
 
 Each image is processed as follows:
