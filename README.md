@@ -1,9 +1,3 @@
-# Astrocyte-segmentation
-
-Here is your **clean, corrected final README** with all requested changes applied:
-
----
-
 # Advanced Astrocyte Detection and Segmentation in Whole Slide Images using Self-Supervised Learning and UNet
 
 ## Abstract
@@ -217,10 +211,3 @@ Segmentation proved more effective than detection due to:
 This work demonstrates that combining self-supervised learning with direct mask construction from detection annotations enables effective astrocyte segmentation without reliance on weak-label pipelines.
 
 The UNet + SimCLR model achieves a validation loss of **0.0352**, providing a scalable and practical solution for large-scale astrocyte analysis.
-
----
-
-If you want, I can also:
-
-* tighten this into a **paper-ready version (NeurIPS/MICCAI style)**
-* or convert it into a **GitHub README (clean + visual + badges)**
